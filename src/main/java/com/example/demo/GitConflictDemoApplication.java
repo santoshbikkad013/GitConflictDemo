@@ -8,9 +8,15 @@ public class GitConflictDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitConflictDemoApplication.class, args);
+
+		
+		
+		String greetMsg="Good Morning";
+
 	
 	
 	String welcomeMsg="Welcome to bikkad It";
+
 	}
 
 }
